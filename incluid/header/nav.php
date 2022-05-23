@@ -1,11 +1,5 @@
 <html lang="en">
-<?php
-    session_start();
-    if ($_SESSION['aa'] != 'jefe' && $_SESSION['active'] = true) {
-        
-      header('location: ../out.php');
-    }
-    ?>
+
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
