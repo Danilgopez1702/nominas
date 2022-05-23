@@ -45,7 +45,7 @@ if (!empty($_SESSION['active'])) {
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Pendientes DN</title>
+    <title>Sistema Nomina DN</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="incluid/assets/vendors/mdi/css/materialdesignicons.min.css">
     <link rel="stylesheet" href="incluid/assets/vendors/css/vendor.bundle.base.css">
