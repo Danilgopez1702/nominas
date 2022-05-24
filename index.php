@@ -1,8 +1,10 @@
 <?php
 session_start();
-if (!empty($_SESSION['active'])) {
+if (!empty($_SESSION['aa'])) {
+
   if($_SESSION['aa'] == "jefe"){
     header('location: admin/');
+  }else if($_SESSION['aa'] == ""){
   }else{
     header('location: usuarios/');
   }
